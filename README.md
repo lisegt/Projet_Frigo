@@ -1,6 +1,6 @@
 # Présentation du projet
 
-Application web de gestion partagée d'un frigo.
+Application web de gestion partagée d'un frigo, réalisée dans le cadre du module Technologies Web en 2022.
 La base de données est gérée avec un backend coté serveur et est accessible à travers une API.
 Chaque étudiant dispose d'un identifiant lui permettant d'accéder à son frigo personnel
 
